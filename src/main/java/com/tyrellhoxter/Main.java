@@ -23,7 +23,7 @@ public class Main {
      * Fills the ones place map used for numbers positioned in the Respective "One" value location
      */
     public void fillOnesMap(){
-        onesPlaceMap.put("0", "Zero");
+        onesPlaceMap.put("0", " ");
         onesPlaceMap.put("1", "One");
         onesPlaceMap.put("2", "Two");
         onesPlaceMap.put("3", "Three");
